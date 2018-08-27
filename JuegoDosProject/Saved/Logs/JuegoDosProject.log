@@ -356,3 +356,12 @@ LogInit: Object subsystem initialized
 [2018.08.27-22.31.57:176][672]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.08.27-22.31.57:176][672]SourceControl:  create mode 100644 JuegoDosProject/Content/hola.uasset
 [2018.08.27-22.31.57:181][672]SourceControl: Commited [master 223ac23] hola.
+[2018.08.27-23.04.30:802][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pablo" FILE="../../../../../../Users/dario/Documents/GitHub/GameNumeroDos/JuegoDosProject/Content/pablo.uasset" SILENT=true
+[2018.08.27-23.04.31:341][543]LogSavePackage: Moving '../../../../../../Users/dario/Documents/GitHub/GameNumeroDos/JuegoDosProject/Saved/pablo2A8763E3481C450E3B3D8F81C4F94127.tmp' to '../../../../../../Users/dario/Documents/GitHub/GameNumeroDos/JuegoDosProject/Content/pablo.uasset'
+[2018.08.27-23.04.34:365][675]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.27-23.04.48:993][675]LogSlate: Window 'Enviar archivos' being destroyed
+[2018.08.27-23.04.50:519][675]LogSourceControl: commit successful: [master 9b96554] unnombrea ladescripicion
+[2018.08.27-23.04.50:650][675]SourceControl: [master 9b96554] unnombrea ladescripicion
+[2018.08.27-23.04.50:650][675]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.08.27-23.04.50:650][675]SourceControl:  create mode 100644 JuegoDosProject/Content/pablo.uasset
+[2018.08.27-23.04.50:654][675]SourceControl: Commited [master 9b96554] unnombrea ladescripicion.
