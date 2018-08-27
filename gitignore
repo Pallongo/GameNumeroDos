@@ -1,0 +1,6 @@
+
+*.log
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
